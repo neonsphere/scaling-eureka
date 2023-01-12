@@ -1,0 +1,1 @@
+Folder for Bill Extract XML. For Testing Purposes.
